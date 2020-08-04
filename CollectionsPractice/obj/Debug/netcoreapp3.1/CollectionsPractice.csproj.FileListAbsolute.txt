@@ -1,0 +1,12 @@
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.csprojAssemblyReference.cache
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.AssemblyInfoInputs.cache
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.AssemblyInfo.cs
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.csproj.CoreCompileInputs.cache
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.deps.json
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.runtimeconfig.json
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.runtimeconfig.dev.json
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.dll
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/CollectionsPractice/bin/Debug/netcoreapp3.1/CollectionsPractice.pdb
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.dll
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.pdb
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/CollectionsPractice/obj/Debug/netcoreapp3.1/CollectionsPractice.genruntimeconfig.cache
