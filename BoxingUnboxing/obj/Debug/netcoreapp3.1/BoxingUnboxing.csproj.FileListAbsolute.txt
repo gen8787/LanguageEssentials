@@ -1,0 +1,12 @@
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/BoxingUnboxing/obj/Debug/netcoreapp3.1/BoxingUnboxing.csprojAssemblyReference.cache
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/BoxingUnboxing/obj/Debug/netcoreapp3.1/BoxingUnboxing.AssemblyInfoInputs.cache
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/BoxingUnboxing/obj/Debug/netcoreapp3.1/BoxingUnboxing.AssemblyInfo.cs
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/BoxingUnboxing/obj/Debug/netcoreapp3.1/BoxingUnboxing.csproj.CoreCompileInputs.cache
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/BoxingUnboxing/bin/Debug/netcoreapp3.1/BoxingUnboxing.deps.json
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/BoxingUnboxing/bin/Debug/netcoreapp3.1/BoxingUnboxing.runtimeconfig.json
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/BoxingUnboxing/bin/Debug/netcoreapp3.1/BoxingUnboxing.runtimeconfig.dev.json
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/BoxingUnboxing/bin/Debug/netcoreapp3.1/BoxingUnboxing.dll
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/BoxingUnboxing/bin/Debug/netcoreapp3.1/BoxingUnboxing.pdb
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/BoxingUnboxing/obj/Debug/netcoreapp3.1/BoxingUnboxing.dll
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/BoxingUnboxing/obj/Debug/netcoreapp3.1/BoxingUnboxing.pdb
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/BoxingUnboxing/obj/Debug/netcoreapp3.1/BoxingUnboxing.genruntimeconfig.cache
