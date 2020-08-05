@@ -1,0 +1,12 @@
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/Basic13/obj/Debug/netcoreapp3.1/Basic13.csprojAssemblyReference.cache
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/Basic13/obj/Debug/netcoreapp3.1/Basic13.AssemblyInfoInputs.cache
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/Basic13/obj/Debug/netcoreapp3.1/Basic13.AssemblyInfo.cs
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/Basic13/obj/Debug/netcoreapp3.1/Basic13.csproj.CoreCompileInputs.cache
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/Basic13/bin/Debug/netcoreapp3.1/Basic13.deps.json
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/Basic13/bin/Debug/netcoreapp3.1/Basic13.runtimeconfig.json
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/Basic13/bin/Debug/netcoreapp3.1/Basic13.runtimeconfig.dev.json
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/Basic13/bin/Debug/netcoreapp3.1/Basic13.dll
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/Basic13/bin/Debug/netcoreapp3.1/Basic13.pdb
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/Basic13/obj/Debug/netcoreapp3.1/Basic13.dll
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/Basic13/obj/Debug/netcoreapp3.1/Basic13.pdb
+/Users/garynewmeyer/Desktop/CodingDojo/c_sharp/LanguageEssentials/Basic13/obj/Debug/netcoreapp3.1/Basic13.genruntimeconfig.cache
